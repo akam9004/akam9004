@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Elvatar 👋
+🚀 Founder & Developer of **AKAM**: An all-in-one decentralized Web3 ecosystem.
 
-<!--
-**akam9004/akam9004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 About AKAM
+AKAM is building a unified platform that seamlessly integrates secure messaging, a non-custodial wallet, and decentralized token swapping into a single, user-friendly experience on the BNB Smart Chain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Blockchain:** BNB Smart Chain (BSC), Solidity ^0.8.20
+- **Smart Contracts:** Hardhat, OpenZeppelin, Ethers.js v5
+- **Testing:** Chai, Mocha
+- **Version Control:** Git, GitHub
+
+### 📫 Connect with me
+- 🌐 **Project Repo:** [github.com/akam9004/akam](https://github.com/akam9004/akam)
+- 🐦 **Twitter/X:** [Your Twitter Link]
+- 💬 **Telegram:** [Your Telegram Link]
+
+---
+<p align="center">
+  <i>Built with ❤️ and Solidity for a decentralized future.</i>
+</p>
